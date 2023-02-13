@@ -3,7 +3,11 @@
 
 <!--Introduction -->
 
-I'm a **MEAN Developer**:iphone:, and a teachable software developer with experience in a wide variety of software, system architecture and programming languages. Looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+"Hello! I'm Emmanuel, a passionate web developer and designer based in Nigeria. I bring my expertise in creating stunning and functional websites to every project I take on. With a focus on user experience and website optimization, I strive to create custom web solutions that are tailored to your business needs.
+
+Whether you're looking for an e-commerce website, a personal website, a portfolio website, a small business website, or a blog website, I've got you covered. I work closely with my clients to understand their vision and bring it to life through cutting-edge web design and development techniques.
+
+I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
