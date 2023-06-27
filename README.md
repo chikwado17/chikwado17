@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hey Dear! :wave::smiley:
+# Hey There! :wave::smiley:
 
 <!--Introduction -->
 
