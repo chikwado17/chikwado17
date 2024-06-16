@@ -2,9 +2,12 @@
 # Hey There! :wave::smiley:
 
 <!--Introduction -->
+Emmanuel Nworie is a front-end engineer based in Lagos, Nigeria, with over 6+ years of hands-on experience in front-end development. Emmanuel has a passion for creating engaging, responsive web experiences. With a focus on usability and accessibility, he has a proven track record of designing and implementing elegant and intuitive user interfaces for various clients. Adept at building dynamic, high-performance web applications using React.js and delivering intuitive user interfaces. Proven ability to collaborate effectively in team environments and manage projects from conception to deployment.
 
-"Hello! I'm Emmanuel, a passionate web developer and designer based in Nigeria. I bring my expertise in creating stunning and functional websites to every project I take on. With a focus on user experience and website optimization, I strive to create custom web solutions that are tailored to your business needs.
-
-Whether you're looking for an e-commerce website, a personal website, a portfolio website, a small business website, or a blog website, I've got you covered. I work closely with my clients to understand their vision and bring it to life through cutting-edge web design and development techniques.
+Key Skills:
+-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+-Frameworks & Libraries: React.js, Redux, TanStack Query, Tailwind CSS, Firebase, Supbase
+-Tools & Platforms: Git, GitHub, Webpack, Babel, npm, Yarn
+-Design Tools: Figma.
 
 
