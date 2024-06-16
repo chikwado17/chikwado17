@@ -8,7 +8,7 @@ Key Skills:
 -
 <ul>
   <li><b>Languages: </b>JavaScript (ES6+), TypeScript, HTML5, CSS3</li>
-  <li><b>Frameworks & Libraries:</b> React.js, Redux, TanStack Query, Tailwind CSS, Firebase, Supbase</li>
+  <li><b>Frameworks & Libraries:</b> React.js, Nextjs, Redux, TanStack Query, Tailwind CSS, Firebase, Supbase</li>
   <li><b>Tools & Platforms:</b> Git, GitHub, Webpack, Babel, npm, Yarn</li>
   <li><b>Design Tools:</b> Figma.</li>
 </ul>
