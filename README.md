@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chikwadonworie@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1UQtL350hqY50qLo3j2m4EuzrDfUl0VWk/edit?usp=drive_link&ouid=117884134745672576957&rtpof=true&sd=true](https://docs.google.com/document/d/1UQtL350hqY50qLo3j2m4EuzrDfUl0VWk/edit?usp=drive_link&ouid=117884134745672576957&rtpof=true&sd=true)](https://docs.google.com/document/d/1UQtL350hqY50qLo3j2m4EuzrDfUl0VWk/edit?usp=sharing&ouid=117884134745672576957&rtpof=true&sd=true)
+- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1Qjn5ntPgPMx_Nq4o-Ugc7c1pt74qtNNI/view?usp=sharing">Click here!</a>
 
 - ⚡ Fun fact **I think i love swimming.**
 
