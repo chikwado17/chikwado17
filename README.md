@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chikwadonworie@gmail.com**
 
-- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1Qjn5ntPgPMx_Nq4o-Ugc7c1pt74qtNNI/view?usp=sharing">click here!</a>
+- 📄 Know about my experiences <a target="_blank" href="[https://drive.google.com/file/d/1Qjn5ntPgPMx_Nq4o-Ugc7c1pt74qtNNI/view?usp=sharing](https://docs.google.com/document/d/1Ivh-bw3puMV01qf-3JG72KbGE3Uiy0Eb/edit?usp=sharing&ouid=117884134745672576957&rtpof=true&sd=true)">click here!</a>
 
 - ⚡ Fun fact **I think I love swimming.**
 
